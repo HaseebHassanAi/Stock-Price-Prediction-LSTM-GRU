@@ -54,3 +54,7 @@ Stock price prediction is a challenging task due to its sequential and volatile 
 1. Clone the repository:
 ```bash
 git clone https://github.com/YourUsername/Stock-Price-Prediction-LSTM-GRU.git
+
+## Install required packages
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
