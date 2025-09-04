@@ -224,4 +224,5 @@ plt.xlabel('Time')
 plt.ylabel('Price')
 plt.title('GRU: Actual vs Predicted Prices')
 plt.legend()
+
 plt.show()
